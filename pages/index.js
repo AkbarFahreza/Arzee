@@ -1,4 +1,4 @@
-import AboutUs from "../components/aboutUs"
+import AboutMe from "../components/aboutMe"
 import Buttons from "../components/buttons"
 import Icons from "../components/icons"
 import Profiles from "../components/profiles"
@@ -16,7 +16,7 @@ export default function Home() {
             <Buttons></Buttons>
           </div>
           <div>
-          <AboutUs></AboutUs>
+          <AboutMe></AboutMe>
           </div>
           <div>
             <Skills></Skills>
