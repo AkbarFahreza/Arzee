@@ -8,9 +8,9 @@ export default function Home() {
     <>
       <div className="bg-base font-Poppins">
         <div className="">
-          <img className="" src="./banner.svg"></img></div>
+          <img className="-z-50" src="./banner.svg"></img></div>
         <div className="container mx-auto">
-          <div className="w-[367px] h-[455px] bg-base mx-auto -mt-4 shadow-xl rounded-lg">
+          <div className="w-[350px] h-[455px] bg-base mx-auto -mt-4 shadow-xl rounded-lg">
             <Profiles></Profiles>
             <Icons></Icons>
             <Buttons></Buttons>
