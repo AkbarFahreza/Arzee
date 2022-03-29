@@ -6,10 +6,10 @@ import Skills from "../components/skills";
 export default function Home() {
   return (
     <>
+      <div className="block -z-40 bg-base">
+        <img className="" src="./banner.svg"></img>
+      </div>
       <div className="bg-base font-Poppins">
-        <div className="block">
-          <img className="" src="./banner.svg"></img>
-        </div>
         <div className=" lg:-mt-72">
           <div className="container mx-auto lg:-mt-72">
             <div className="z-50">
