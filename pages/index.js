@@ -6,6 +6,9 @@ import Skills from "../components/skills";
 export default function Home() {
   return (
     <>
+    <head>
+    <link rel="icon" href="icon_path" type="image/icon type"/>
+    </head>
       <div className="block -z-40 bg-base">
         <img className="" src="./banner.svg"></img>
       </div>
